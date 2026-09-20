@@ -1,1 +1,1 @@
-# flobo-display-template
+# Flobo-Display-Template
